@@ -1,6 +1,6 @@
-# Matplotlib-Challenge
+# Matplotlib
 
-In this project, I compiled 2 CSV files to show to impact of drug regimen on mice to see if there were any correlations
+For this project, I compiled 2 CSV files to show to impact of drug regimen on mice to see if there were any correlations
 
 #Analysis below:
 
